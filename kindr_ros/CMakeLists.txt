@@ -37,7 +37,7 @@ endif()
 
 include_directories(
   include
-  ${EIGERN_INCLUDE_DIRS}
+  ${EIGEN3_INCLUDE_DIRS}  
   ${kindr_INCLUDE_DIRS}
 )
 
